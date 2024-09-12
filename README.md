@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hoi I'm Momo! I Create many things!
+***Some things I can do:***
+- Edit CSS
+- Draw
+- Work in Unity
 
+
+You'll also see some random things Pop up from time to time. 
 <!--
 **Momofier/Momofier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
