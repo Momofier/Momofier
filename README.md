@@ -1,8 +1,8 @@
 
 <div class="markdown-heading" dir="auto">
-<h2 class="heading-element" dir="auto" style="text-align: center;" data-sourcepos="3:1-3:38" align="center">Hoi I'm Momo! I Create many things!</h2  align="center">
-<a id="user-content-hoi-im-momo-i-create-many-things" class="anchor" href="https://github.com/Momofier/Momofier/edit/main/README.md#hoi-im-momo-i-create-many-things"></a></div>
-<p dir="auto" style="text-align: center;" data-sourcepos="4:1-4:27"  align="center"><em><strong>Some things I can do:</strong></em></p align="center">
+<h1 class="heading-element" dir="auto" style="text-align: center;" data-sourcepos="3:1-3:38" align="center">Hoi I'm Momo! I Create many things!</h1  align="center">
+<hr>
+<p align="center"><em><strong>Some things I can do:</strong></em></p align="center">
 <ul>
 <ul>
 <li align="center">Edit CSS</li align="center">
